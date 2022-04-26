@@ -78,6 +78,7 @@ hr{
 .late-image{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    justify-content: center;
     /* grid-column-gap: 20px; */
 }
 .late-course-image img{
